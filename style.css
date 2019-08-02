@@ -44,6 +44,7 @@ header.startup h1 {
 }
 
 .btn-xl {
+  display:flex;
   padding: 1rem 2rem; 
 }
 
